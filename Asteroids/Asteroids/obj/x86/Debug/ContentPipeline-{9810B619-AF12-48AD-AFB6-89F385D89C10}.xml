@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>asteroidsShip.png</Source>
+      <Name>playerShip</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Documents\CSC160\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\playerShip.xnb</Output>
+      <Time>2014-08-22T21:51:13.8671637-06:00</Time>
+    </Item>
+    <Item>
+      <Source>starBackground.png</Source>
+      <Name>starBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Documents\CSC160\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\starBackground.xnb</Output>
+      <Time>2014-08-22T22:13:38.163053-06:00</Time>
+    </Item>
+    <Item>
+      <Source>laserRed.png</Source>
+      <Name>bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Documents\CSC160\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\bullet.xnb</Output>
+      <Time>2014-08-23T09:38:41.2856112-06:00</Time>
+    </Item>
+    <Item>
+      <Source>asteroid.png</Source>
+      <Name>asteroid</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Documents\CSC160\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\asteroid.xnb</Output>
+      <Time>2014-08-23T11:16:22.5668573-06:00</Time>
+    </Item>
+    <Item>
+      <Source>alienShip.png</Source>
+      <Name>alienShip</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Documents\CSC160\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\alienShip.xnb</Output>
+      <Time>2014-08-23T12:17:14.7147483-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Font.spritefont</Source>
+      <Name>Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Documents\CSC160\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Font.xnb</Output>
+      <Time>2014-08-24T11:08:49.9648261-06:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{9810B619-AF12-48AD-AFB6-89F385D89C10}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Corey Massey\Documents\CSC160\Asteroids\Asteroids\AsteroidsContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Corey Massey\Documents\CSC160\Asteroids\Asteroids\Asteroids\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Corey Massey\Documents\CSC160\Asteroids\Asteroids\Asteroids\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Corey Massey\Documents\CSC160\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-08-07T20:00:54.7421496-06:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
