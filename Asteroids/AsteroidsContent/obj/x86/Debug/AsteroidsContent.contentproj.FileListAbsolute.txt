@@ -1,1 +1,0 @@
-C:\Users\Corey Massey\Documents\CSC160\Asteroids\Asteroids\AsteroidsContent\obj\x86\Debug\AsteroidsContent.contentprojResolveAssemblyReference.cache

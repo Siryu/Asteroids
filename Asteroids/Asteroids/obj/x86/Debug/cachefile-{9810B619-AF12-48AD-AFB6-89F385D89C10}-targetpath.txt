@@ -1,6 +1,0 @@
-Content\playerShip.xnb
-Content\starBackground.xnb
-Content\bullet.xnb
-Content\asteroid.xnb
-Content\alienShip.xnb
-Content\Font.xnb
